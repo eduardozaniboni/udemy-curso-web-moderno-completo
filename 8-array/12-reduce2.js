@@ -14,3 +14,4 @@ console.log(alunos.map((a) => a.bolsista).reduce(todosBolsistas))
 
 const algumBolsista = (resultado, bolsista) => resultado || bolsista
 console.log(alunos.map((a) => a.bolsista).reduce(todosBolsistas))
+

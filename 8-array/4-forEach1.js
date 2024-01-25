@@ -8,3 +8,4 @@ aprovados.forEach((nome) => console.log(nome))
 
 const exebirAprovados = (aprovado) => console.log(aprovado)
 aprovados.forEach(exebirAprovados)
+

@@ -32,3 +32,4 @@ aprovados.splice(1, 1)
 // aprovados.splice(1, 2) // excluiria 2 elementos
 // aprovados.splice(1, 2, 'Elemento1', 'Elemento2') // add elementos
 console.log(aprovados)
+

@@ -13,3 +13,4 @@ const resultado = alunos
     }, 0)
 
 console.log(resultado)
+

@@ -18,3 +18,4 @@ const apenasPreco = (produto) => `R$ ${parseFloat(produto.preco).toFixed(2).repl
 
 const resultado = carrinho.map2(paraObjeto).map2(apenasPreco)
 console.log(resultado)
+

@@ -27,3 +27,4 @@ console.log(algunsPilotos1)
 
 const algunsPilotos2 = pilotos.slice(1, 4) // pega o período de elementos, mas não incluí o segundo índice
 console.log(algunsPilotos2)
+

@@ -9,3 +9,4 @@ const aprovados = ['Ana', 'Bia', 'Carlos', 'Daniel']
 aprovados.forEach2(function (nome, indice) {
     console.log(`${indice + 1}) ${nome}`)
 })
+
